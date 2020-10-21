@@ -4,7 +4,7 @@ This library implements Hidden Markov Models (HMM) for time-inhomogeneous Markov
 This means that, in contrast to many other HMM implementations, there can be different
 states and a different transition matrix at each time step.
 
-This is a port of [https://github.com/bmwcarit/hmm-lib](bmwcarit/hmm-lib) to Python.
+This is a port of [bmwcarit/hmm-lib](https://github.com/bmwcarit/hmm-lib) to Python.
 
 This library provides an implementation of
 * The forward-backward algorithm, which computes the probability of all state candidates given
